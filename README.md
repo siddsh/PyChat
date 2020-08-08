@@ -6,3 +6,5 @@ Initialize Client window with Nickname<br>
   <li>Every user's corresponding nickname is stored
   <li>Always listens for input
  </ul>
+
+## Using Socket and Multi-Threading
